@@ -3,11 +3,13 @@ import {BrowserRouter as Router,Routes,Route} from 'react-router-dom';
 import Navbar from'./components/Navbar';
 import Home from'./pages/Home';
 import './App.css';
+import WorkshopList from './pages/WorkshopList';
 function App(){
   return(
     <Router>
       <Navbar/>
       <Routes>
+        <Route path="/workshops" element={<WorkshopList />} />
         <Route path="/" element={<Home/>}/>
       </Routes>
     </Router>
