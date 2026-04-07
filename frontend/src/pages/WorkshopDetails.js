@@ -37,7 +37,7 @@ function WorkshopDetails() {
         </p>
         <p style={{color: '#444', lineHeight: '1.7', marginBottom: '32px'}}>{workshop.description}</p>
         <button style={{
-          background: '#003366', color: 'white', padding: '14px 32px',
+          background: '#05417c', color: 'white', padding: '14px 32px',
           borderRadius: '8px', border: 'none', fontSize: '1rem',
           fontWeight: 'bold', cursor: 'pointer', width: '100%'
         }}>
