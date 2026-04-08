@@ -58,12 +58,12 @@ The most challenging part was making the navbar responsive on mobile. I solved t
 
 
 ### Before (Original Django Codebase)
-![Before](Screenshots/Homeint.png)
+![Before](screenshots/Homeint.png)
 
 ### After (React Redesign)
-![Home Page](Screenshots/Home.png)
-![Workshop List](Screenshots/Workshops.png)
-![Login Page](Screenshots/login.png)
-![Register Page](Screenshots/Register.png)
-![Workshop Details](Screenshots/Workshop%202.png)
-![Home Footer](Screenshots/Home%20footer.png)
+![Home Page](screenshots/Home.png)
+![Workshop List](screenshots/Workshops.png)
+![Login Page](screenshots/login.png)
+![Register Page](screenshots/Register.png)
+![Workshop Details](screenshots/Workshop%202.png)
+![Home Footer](screenshots/Home%20footer.png)
