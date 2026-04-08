@@ -62,8 +62,9 @@ The most challenging part was making the navbar responsive on mobile. I solved t
 
 ### After (React Redesign)
 ![Home Page](screenshots/Home.png)
+![Home Footer](screenshots/Home%20footer.png)
 ![Workshop List](screenshots/Workshops.png)
+![Workshop Details](screenshots/Workshop%202.png)
 ![Login Page](screenshots/login.png)
 ![Register Page](screenshots/Register.png)
-![Workshop Details](screenshots/Workshop%202.png)
-![Home Footer](screenshots/Home%20footer.png)
+
