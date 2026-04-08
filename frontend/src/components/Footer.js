@@ -11,7 +11,7 @@ function Footer() {
     }}>
       <p style={{margin: 0}}>© 2026 FOSSEE, IIT Bombay. All rights reserved.</p>
       <p style={{margin: '8px 0 0', fontSize: '0.85rem', color: '#aac4e8'}}>
-        .Free and Open Source Software for Education.
+        Free and Open Source Software for Education
       </p>
     </footer>
   );
