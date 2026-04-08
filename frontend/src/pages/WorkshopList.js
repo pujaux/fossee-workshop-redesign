@@ -26,7 +26,7 @@ function WorkshopList() {
             
             <p style={{color: '#555', marginBottom: '6px'}}><FaUserTie style={{color: '#0066cc', marginRight: '8px'}}/>{workshop.instructor}</p>
             <p style={{color: '#555', marginBottom: '6px'}}><FaCalendarAlt style={{color: '#0066cc', marginRight: '8px'}}/>{workshop.date}</p>
-            <p style={{color: '#555', marginBottom: '20px'}}><FaChair style={{color: '#0066cc', marginRight: '8px'}}/>{workshop.seats} seats available</p><p style={{color: '#555', marginBottom: '20px'}}><FaChair style={{color: '#0066cc', marginRight: '8px'}}/>{workshop.seats} seats available</p>
+            <p style={{color: '#555', marginBottom: '20px'}}><FaChair style={{color: '#0066cc', marginRight: '8px'}}/>{workshop.seats} seats available</p>
             <Link to={`/workshops/${workshop.id}`} style={{
               background: '#003366',
               color: 'white',

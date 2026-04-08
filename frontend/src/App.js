@@ -7,6 +7,7 @@ import WorkshopList from './pages/WorkshopList';
 import WorkshopDetails from './pages/WorkshopDetails';
 import Login from './pages/Login';
 import Register from './pages/Register';
+import Footer from './components/Footer';
 function App(){
   return(
     <Router>
@@ -17,7 +18,9 @@ function App(){
         <Route path="/login" element={<Login />} />
          <Route path="/register" element={<Register />} />
         <Route path="/" element={<Home/>}/>
-      </Routes>
+        
+         </Routes>
+      <Footer />
     </Router>
   );
 }
