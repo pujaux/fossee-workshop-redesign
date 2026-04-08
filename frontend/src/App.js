@@ -8,6 +8,7 @@ import WorkshopDetails from './pages/WorkshopDetails';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Footer from './components/Footer';
+import Chatbot from './components/Chatbot';
 function App(){
   return(
     <Router>
@@ -20,7 +21,9 @@ function App(){
         <Route path="/" element={<Home/>}/>
         
          </Routes>
+         
       <Footer />
+      <Chatbot />
     </Router>
   );
 }
